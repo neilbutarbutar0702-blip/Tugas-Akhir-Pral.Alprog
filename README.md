@@ -102,6 +102,8 @@ Menampilkan sebaran distribusi skor tingkat kecanduan remaja global (skala 1–1
 ### 4. 📉 Distribusi Skor Tingkat Kecanduan
 ![Distribusi Skor Tingkat Kecanduan](images/plot4_distribusi_kecanduan.png)
 
+### 5. 🖼️ Dashboard Gabungan
+![Dashboard Gabungan](images/plot5_dashboard_gabungan.png)
 ---
 
 ## 👨‍💻 Catatan
